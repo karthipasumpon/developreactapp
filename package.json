@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://karthipasumpon.github.io/viteapp/",
+  "homepage": "https://karthipasumpon.github.io/developreactapp/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
